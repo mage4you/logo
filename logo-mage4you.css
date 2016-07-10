@@ -1,0 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+#logo-mage4you *{margin:0 !important;padding: 0 !important;}
+#logo-mage4you{float: left !important;margin:0 !important;padding: 10px !important;background: #222222 !important;}
+#logo-mage4you h1{white-space:nowrap !important;font-family: 'Open Sans', sans-serif !important;background: #222222 !important;color:#61dafb !important;float: left !important;font-size: 60px !important;line-height: 100px !important;}
+#logo-mage4you h1 span {float: left !important;display: block !important;}
+#logo-mage4you h1 span.for{color: #222222 !important;background: #61dafb !important;font-size: 95px !important;border-radius: 50px !important;width: 100px !important;height: 100px !important;text-align: center !important;margin: 10px !important;}
